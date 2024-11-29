@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "608840655928",
+    "firebase_url": "https://bus-university-baddf-default-rtdb.firebaseio.com",
+    "project_id": "bus-university-baddf",
+    "storage_bucket": "bus-university-baddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608840655928:android:a37c7bd2d88f22756dd272",
+        "android_client_info": {
+          "package_name": "com.example.university_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsXjKb9DBnVWA3NmZpoROzrrTLetGPBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
